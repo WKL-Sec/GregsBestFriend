@@ -16,3 +16,11 @@ For example, Clang++ provides several optimization flags that can help reduce th
 Building GregsBestFriend with different compilers ensures that the tool remains versatile and adaptable to different systems and environments. Users can choose the compiler that best suits their needs and build the tool accordingly.
 
 In conclusion, building GregsBestFriend with different compilers allows users to achieve better results in bypassing AV/EDR systems. Each compiler produces a unique executable, which can help evade detection. By using different compilers, users can tailor the output to their specific needs, ensuring the versatility and adaptability of the tool.
+
+## Building
+
+To build GregsBestFriend, follow these steps:
+
+1. Navigate to the appropriate folder for your desired compiler.
+2. Follow the instructions provided in the README file to build the tool with your desired compiler.
+

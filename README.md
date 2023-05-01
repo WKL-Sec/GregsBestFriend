@@ -27,3 +27,16 @@ To build GregsBestFriend, follow these steps:
 ## Details on the C++ Code
 
 The GregsBestFriend C++ code includes a loop that runs `MAX_OP` times, where `MAX_OP` is defined as a large number. This loop is intended to waste CPU cycles and help prevent sandbox execution. Additionally, the code checks the name of the executable to ensure that it includes the string "GregsBestFriend". This is done to help prevent sandbox execution, as many sandboxes rename the executable when running it.
+
+## VirusTotal Analysis
+
+We do not recommend uploading the final executable to VirusTotal, as this could result in the tool being detected by antivirus software.
+
+Instead, we recommend uploading the tool to [antiscan.me](https://antiscan.me/) or [kleenscan.com](https://kleenscan.com/) for analysis.
+
+Please note that uploading the tool to any online virus scanner or malware analysis service is done at your own risk and could potentially result in your tool being detected by antivirus software.
+
+Below is an example result of uploading GregsBestFriend to VirusTotal (for demonstration purposes only):
+
+[![VirusTotal Results](./images/virustotal-results.png)](https://www.virustotal.com/)
+

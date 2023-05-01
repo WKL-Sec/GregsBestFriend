@@ -40,3 +40,7 @@ Below is an example result of uploading GregsBestFriend to VirusTotal (for demon
 
 [![VirusTotal Results](./images/VT1.png)](https://www.virustotal.com/)
 
+## References
+
+[Different flavors of the Clang compiler for Windows](https://blog.conan.io/2022/10/13/Different-flavors-Clang-compiler-Windows.html)
+

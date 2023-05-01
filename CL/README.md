@@ -8,11 +8,11 @@ To build GregsBestFriend with `cl.exe`, follow these steps:
 
 3. Run the following command to compile `GregsBestFriend.cpp` into an object file:
 
-```cl.exe /TP /O1 /GS- /GL /EHsc /c GregsBestFriend.cpp`
+```cl.exe /TP /O1 /GS- /GL /EHsc /c GregsBestFriend.cpp```
 
 4. Run the following command to link the object file and create the executable:
 
-```link.exe GregsBestFriend.obj /SUBSYSTEM:CONSOLE /NODEFAULTLIB:msvcrt.lib /MT:libcmt.lib /OUT:GregsBestFriend.exe /OPT:REF /OPT:ICF`
+```link.exe GregsBestFriend.obj /SUBSYSTEM:CONSOLE /NODEFAULTLIB:msvcrt.lib /MT:libcmt.lib /OUT:GregsBestFriend.exe /OPT:REF /OPT:ICF```
 
 5. To add your own shellcode to the code, replace the `shellcode` array in the `shellcode()` function with your own shellcode.
 

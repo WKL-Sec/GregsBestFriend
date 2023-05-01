@@ -9,12 +9,16 @@ To build GregsBestFriend with Clang using mingw64, follow these steps:
 
 `clang++.exe -s -Os GregsBestFriend.cpp -o GregsBestFriend.exe`
 
+## Compiler Flags
+
 Here's what each flag does:
 
 - `-s`: Strip the executable of all symbol table and relocation information, reducing its size.
 - `-Os`: Optimize the executable for size. This flag tells Clang to prioritize reducing the size of the generated code over its execution speed.
 
 5. The resulting `GregsBestFriend.exe` executable should be located in the `clang++` folder.
+
+## Adding Shellcode to GregsBestFriend
 
 Note that adding your own shellcode to GregsBestFriend may cause the program to be detected by some AV/EDR systems, depending on the specifics of your shellcode. To add your own shellcode, follow these steps:
 

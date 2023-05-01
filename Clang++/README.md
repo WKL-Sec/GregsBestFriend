@@ -7,7 +7,7 @@ To build GregsBestFriend with Clang using mingw64, follow these steps:
 3. Navigate to the `clang++` folder in the GregsBestFriend repository.
 4. Run the following command to build the executable with Clang:
 
-clang++.exe -s -Os GregsBestFriend.cpp -o GregsBestFriend.exe
+`clang++.exe -s -Os GregsBestFriend.cpp -o GregsBestFriend.exe`
 
 Here's what each flag does:
 

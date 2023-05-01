@@ -38,5 +38,5 @@ Please note that uploading the tool to any online virus scanner or malware analy
 
 Below is an example result of uploading GregsBestFriend to VirusTotal (for demonstration purposes only):
 
-[![VirusTotal Results](./images/virustotal-results.png)](https://www.virustotal.com/)
+[![VirusTotal Results](./images/VT1.png)](https://www.virustotal.com/)
 

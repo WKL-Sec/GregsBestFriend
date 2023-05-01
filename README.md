@@ -24,3 +24,6 @@ To build GregsBestFriend, follow these steps:
 1. Navigate to the appropriate folder for your desired compiler.
 2. Follow the instructions provided in the README file to build the tool with your desired compiler.
 
+## Details on the C++ Code
+
+The GregsBestFriend C++ code includes a loop that runs `MAX_OP` times, where `MAX_OP` is defined as a large number. This loop is intended to waste CPU cycles and help prevent sandbox execution. Additionally, the code checks the name of the executable to ensure that it includes the string "GregsBestFriend". This is done to help prevent sandbox execution, as many sandboxes rename the executable when running it.

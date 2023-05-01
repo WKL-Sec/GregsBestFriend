@@ -42,5 +42,5 @@ Below is an example result of uploading GregsBestFriend to VirusTotal (for demon
 
 ## References
 
-[Different flavors of the Clang compiler for Windows](https://blog.conan.io/2022/10/13/Different-flavors-Clang-compiler-Windows.html)
+- [Different flavors of the Clang compiler for Windows](https://blog.conan.io/2022/10/13/Different-flavors-Clang-compiler-Windows.html)
 

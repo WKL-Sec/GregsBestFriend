@@ -2,7 +2,7 @@
 GregsBestFriend is a tool designed to bypass AV/EDR systems, and can be built using different compilers to achieve better results. Each compiler produces a different executable, and using different compilers can help break away from using the Microsoft Visual C++ compiler (cl.exe), which is often used and can lead to detections.
 
 ## Introduction
-GregsBestFriend was created for the White Knight Labs Offensive Development course to demonstrate how easy it is to bypass AV/EDR systems. The tool serves as a starting point and can be used as a base for developers to build upon. The course creators have shown that GregsBestFriend can be successful in bypassing every AV/EDR system that exists today, provided it is used correctly.
+GregsBestFriend was created for the [White Knight Labs Offensive Development Course](https://www.antisyphontraining.com/offensive-development-w-greg-hatcher-john-stigerwalt/) to demonstrate how easy it is to bypass AV/EDR systems. The tool serves as a starting point and can be used as a base for developers to build upon. The course creators have shown that GregsBestFriend can be successful in bypassing every AV/EDR system that exists today, provided it is used correctly.
 
 The use of AV and EDR systems is crucial in detecting and preventing malware and other malicious software from infecting a system. However, as demonstrated by GregsBestFriend, these systems can be bypassed if not properly configured or if an attacker has access to a system.
 

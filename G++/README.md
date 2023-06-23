@@ -2,6 +2,14 @@
 
 To build GregsBestFriend with g++, follow these steps:
 
+### On Linux
+
+1. `apt install mingw-w64 g++`
+2. Run the following command to build the executable with g++ and mingw:
+   `x86_64-w64-mingw32-g++ -Os -s GregsBestFriend.cpp -static -static-libgcc -static-libstdc++ -Wl,--subsystem,windows -o GregsBestFriend.exe`
+
+### On other platforms
+
 1. Download and install [mingw-w64](https://github.com/niXman/mingw-builds-binaries) for your system.
 2. Open the mingw-w64 terminal or command prompt.
 3. Navigate to the `g++` folder in the GregsBestFriend repository.
